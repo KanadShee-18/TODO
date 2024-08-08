@@ -95,6 +95,7 @@ h4 {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  will-change: transform;
 
   li {
     list-style: none;
